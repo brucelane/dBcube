@@ -1,7 +1,6 @@
 #include "DBCClient.h"
 #include "AssetManager.h"
 #include "ShaderManager.h"
-
 using namespace ci;
 using namespace ci::app;
 using namespace std;
